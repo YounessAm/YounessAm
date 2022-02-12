@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YounessAm
 - 👀 I’m interested in DataScience
 - 🌱 I’m currently learning NLP Deep Learning Algorithmics
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on All DataScience experiences
 - 📫 How to reach me --> mail to : amri.youness@hotmail.fr
